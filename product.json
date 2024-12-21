@@ -39,7 +39,6 @@
 		"serviceUrl": "https://walrus-backup-app-sgqep.ondigitalocean.app/pearai-backup-server-api/gallery",
 		"itemUrl": "https://walrus-backup-app-sgqep.ondigitalocean.app/pearai-backup-server-api/items"
 	},
-
 	"profileTemplatesUrl": "https://az764295.vo.msecnd.net/profile-templates/profile-templates.json",
 	"extensionRecommendations": {
 		"ms-dotnettools.csdevkit": {
